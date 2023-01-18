@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "goph619_examples"
+version = "0.0.1"
+authors = [
+  {name = "Jesus Rojas-Parra", email="jesus.parra@ucalgary.ca"},
+]
+description = "Code examples for the GOph 619 course"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["numpy",
+"matplotlib",]
+classifiers = [
+"Programming Language :: Python :: 3",
+"Operating System :: OS Independent",
+"License :: OSI Approved :: GNU General Public License v3",
+]
+[project.urls]
+"Homepage" = "https://github.com/energizer1996/goph619-classes"

@@ -2,6 +2,9 @@
 """
 Created on Wed Jan 18 08:12:25 2023
 
+pathlib packages
+
 @author: jesus.parra
 """
+
 
