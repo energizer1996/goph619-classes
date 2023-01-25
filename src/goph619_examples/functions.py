@@ -51,8 +51,3 @@ def cos(x):
 
     """
     return 0
-
-
-if __name__ == '__main__':
-    print(f'exp_num(0): {exp_num(0)}')
-    print(f'exp_num(1): {exp_num(1)}')
