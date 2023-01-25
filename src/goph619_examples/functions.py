@@ -36,6 +36,23 @@ def exp_num(x):
         counter += 1
     return (s,counter)
 
+def cos(x):
+    """
+    
+
+    Parameters
+    ----------
+    x : TYPE
+        DESCRIPTION.
+
+    Returns
+    -------
+    None.
+
+    """
+    return 0
+
+
 if __name__ == '__main__':
     print(f'exp_num(0): {exp_num(0)}')
     print(f'exp_num(1): {exp_num(1)}')
